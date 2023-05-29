@@ -1,0 +1,15 @@
+{
+    "name": "bravegeek/binary-tree",
+    "autoload": {
+        "psr-4": {
+            "BinaryTree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bravegeek",
+            "email": "andrei.kvashnin2000@gmail.com"
+        }
+    ],
+    "require": {}
+}

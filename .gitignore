@@ -1,1 +1,4 @@
 .idea
+/vendor/
+./src/Painter.php
+Test.php
